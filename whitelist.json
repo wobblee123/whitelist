@@ -1,5 +1,3 @@
 {
-    "whitelisted_steam_ids": [
-        "STEAM_0:1:55470579",
-    ]
+  "whitelisted_steam_ids": ["STEAM_0:1:12345678", "STEAM_0:1:23456789", "STEAM_0:1:34567890"]
 }
