@@ -1,3 +1,7 @@
 {
-    "whitelisted_steam_ids": ["STEAM_0:1:554760579", "STEAM_0:0:554855296", "STEAM_0:1:621002174"]
+    "whitelisted_steam_ids": ["STEAM_0:1:554760579", "STEAM_0:0:554855296", "STEAM_0:1:621002174", "STEAM_0:0:620982184"]
+}
+
+{
+    "premium_users": ["STEAM_0:1:554760579", "STEAM_0:1:621002174"]
 }
